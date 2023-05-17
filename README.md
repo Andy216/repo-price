@@ -1,0 +1,1 @@
+Importar el archivo priceTest.postman_collection.json en postman para poder probar los casos de prueba.
